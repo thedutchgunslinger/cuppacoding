@@ -3,7 +3,7 @@ import ExerStyle from '@/styles/exercises.module.css'
 import { gsap } from "gsap/dist/gsap";
 
 export default function Exercises() {
-    const languages = ['html', 'css', 'js'];
+    const languages = ['html', 'css', 'javascript','php', 'flask'];
 
   return (
     <>
