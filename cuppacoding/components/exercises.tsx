@@ -20,7 +20,7 @@ export default function Exercises() {
           <ExerCard
             id={2}
             level={2}
-            lang={["html", "css"]}
+            lang={["html", "css","extraLangeTaal"]}
             title="name"
             module="python trainee"
             time={30}
